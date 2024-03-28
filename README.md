@@ -11,7 +11,12 @@ The prompts are as follows: the first three characters, text color, shape and sh
 
 Please reference the video below to create you're SVG logo.
 
+[Untitled_ Mar 27, 2024 11_06 PM.webm](https://github.com/blebeuf/10_SVG-Logo-Maker/assets/23405383/371c8155-5d1f-4b69-ab43-334c08483124)
+
+
 ## Usage
+
+![Untitled_ Mar 27, 2024 11_09 PM](https://github.com/blebeuf/10_SVG-Logo-Maker/assets/23405383/0990bd8e-cf30-4b1f-b4dd-1a7bd944b93e)
 
 Once the repo is downloaded, the user would run all test from git bash/command line using node.js.
 
